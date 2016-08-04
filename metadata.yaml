@@ -1,0 +1,30 @@
+_repo: The-Princess-and-the-Goblin_708
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacDonald, George
+    birthdate: 1824
+    deathdate: 1905
+    gutenberg_agent_id: '127'
+    url: http://www.gutenberg.org/2009/agents/127
+    wikipedia: http://en.wikipedia.org/wiki/George_MacDonald
+description: 'Sequel: The Princess and Curdie, #36612, #709.'
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '1996-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '708'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'Princesses -- Juvenile fiction'
+- !lcsh 'Fantasy'
+- !lcsh 'Goblins -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+- GITenberg
+title: The Princess and the Goblin
+url: http://www.gutenberg.org/ebooks/708
